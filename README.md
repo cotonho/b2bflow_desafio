@@ -48,7 +48,7 @@ create table contatos (
 
 -- Exemplo de inserção de dados para teste:
 insert into contatos (nome, telefone) 
-values ('Marco Antônio', '5532985101972');
+values ('Marco Antônio', '5532xxxxxxxxx');
 ```
 
 ## Variáveis de Ambiente
